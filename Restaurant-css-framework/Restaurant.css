@@ -1,0 +1,47 @@
+img {
+    border-radius: 23px;
+}
+.container-fluid {
+    background-image: url("diner.jpg");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:rgb(212, 170, 191);
+}
+.img-rounded {
+    width: 100%;
+}
+.jumbotron {
+    background-color: rgb(189, 173, 105);
+    opacity: 0.8;
+    border-radius: 23px;
+    color: rgb(10, 10, 10); 
+}
+
+td {
+    margin-left: 44px;
+    padding: 20px;
+}
+
+
+.card {
+    border-radius: 23px;
+}
+
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+@font-face {
+    font-family: "Mainstay";
+    src: url("Mainstay-4BKa6.ttf");
+ }
+
+.Sixties {
+      font-size: 44px;
+      font-family: Mainstay;
+  }
+
+
+
