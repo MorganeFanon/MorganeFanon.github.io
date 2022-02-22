@@ -32,5 +32,5 @@ Enjoy the game!
 ## IT-Languages used
  HTML, CSS and JavaScript
 
-## The game is online [here](myLib/README.md)
+
 
